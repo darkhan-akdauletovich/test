@@ -1,0 +1,230 @@
+-------------------------------- Dummy Exam
+displayfirstparam
+printdigits  "github.com/01-edu/z01"
+displaylastparam
+displayalpham `  "github.com/01-edu/z01"
+switchcase
+displayalrevm  "github.com/01-edu/z01"
+repeatalpha
+paramcount  "github.com/01-edu/z01" "os"
+rot13
+searchreplace
+firstword
+rot14  nothing
+lastword
+max ` nothing
+alphamirror
+wdmatch     "github.com/01-edu/z01" "os"
+inter
+ispowerof2
+reversebits
+swapbits
+searchreplace
+union
+compare  nothing
+firstrune
+doop
+lastrune
+expandstr
+nrune
+atoi 
+strrev
+reversestrcap
+printstr
+tabmult
+strlen
+capitalize  nothing
+swap
+gcd
+rot14
+addprimesum
+atoi
+cleanstr
+printhex
+reverserange
+hiddenp
+range
+fprime
+foreach
+atoibase
+itoa
+brainfuck
+itoabase
+ 
+-------------------------------- Exam 01
+displaya
+displayz
+onlya
+onlyz
+printdigits
+printalphabet
+printreversealphabet
+countdown
+hello
+displayalpham
+displayalrevm
+printcomb
+printrevcomb
+ 
+-------------------------------- Exam 02
+displayfirstparam
+displaylastparam
+switchcase
+repeatalpha
+searchreplace
+rot13
+firstword
+lastword
+alphamirror
+inter
+reversebits
+swapbits
+union
+displaya
+displayz
+hello
+firstrune
+lastrune
+nrune
+strrev
+printstr
+strlen
+swap
+rot14
+atoi
+ 
+-------------------------------- Exam 03
+displayfirstparam
+printdigits  "github.com/01-edu/z01"
+displaylastparam
+displayalpham `  "github.com/01-edu/z01"
+switchcase
+displayalrevm  "github.com/01-edu/z01"
+repeatalpha
+paramcount  "github.com/01-edu/z01" "os"
+rot13
+searchreplace
+firstword
+rot14  nothing
+lastword
+max ` nothing
+alphamirror
+wdmatch     "github.com/01-edu/z01" "os"
+inter
+ispowerof2
+reversebits
+swapbits
+searchreplace
+union
+compare  nothing
+firstrune
+doop
+lastrune
+expandstr
+nrune
+atoi 
+strrev
+reversestrcap
+printstr
+tabmult
+strlen
+capitalize  nothing
+swap
+gcd
+rot14
+addprimesum
+atoi
+cleanstr
+printhex
+reverserange
+hiddenp
+range
+fprime
+foreach
+atoibase
+itoa
+brainfuck
+itoabase
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--------------------------FINAL EXAM
+
+addprimesum ("os" "github.com/01-edu/z01")
+✅alphamirror import ("os" "github.com/01-edu/z01")
+atoi
+atoibase
+brainfuck "os" "github.com/01-edu/z01"
+capitalize  nothing
+cleanstr
+✅compare  nothing
+✅countdown
+✅displaya "github.com/01-edu/z01"
+✅displayalpham "github.com/01-edu/z01" "os"
+✅displayalrevm  "github.com/01-edu/z01"
+✅displayfirstparam "github.com/01-edu/z01" "os"
+✅displaylastparam "github.com/01-edu/z01" "os"
+✅displayz "github.com/01-edu/z01"
+doop
+expandstr
+firstrune
+firstword
+foreach
+fprime
+gcd
+✅hello
+hiddenp
+✅inter  "os" "github.com/01-edu/z01"
+ispowerof2
+itoa
+itoabase
+lastrune
+✅lastword "os" "github.com/01-edu/z01"
+max ` nothing
+nrune
+✅onlya "github.com/01-edu/z01"
+✅onlyz "github.com/01-edu/z01"
+✅paramcount  "github.com/01-edu/z01" "os"
+✅printalphabet
+✅printcomb
+✅printdigits "github.com/01-edu/z01"
+printhex
+✅printrevcomb
+✅printreversealphabet
+printstr
+range
+repeatalpha
+reversebits
+reverserange
+reversestrcap
+rot13
+✅rot14 N
+✅searchreplace "github.com/01-edu/z01" "os"
+strlen
+strrev
+swap
+✅swapbits
+✅switchcase "github.com/01-edu/z01" "os"
+tabmult
+union
+wdmatch     "github.com/01-edu/z01" "os"
